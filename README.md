@@ -30,5 +30,7 @@ Bible Meditation is an Android application designed to enhance your spiritual jo
 Special thanks to [Bible Gateway](https://www.biblegateway.com/) for free access to their website and content, which has been invaluable in the development of this project.
 
 
+
+
 ```bash
-git clone https://github.com/yourusername/bible-meditation-app.git
+[git clone https://github.com/yourusername/bible-meditation-app.git](https://github.com/ampiscool/Bible-Meditation---Read-Listen-Meditate.git)https://github.com/ampiscool/Bible-Meditation---Read-Listen-Meditate.git
