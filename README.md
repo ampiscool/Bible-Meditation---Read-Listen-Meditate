@@ -25,9 +25,10 @@ Bible Meditation is an Android application designed to enhance your spiritual jo
 
 - **Data Export and Backup**: Export and backup your bookmarks, notes, custom scripture meditation lists, and other user data into a single file for easy management and portability.
 
-## Getting Started
+  
+## Acknowledgments
+Special thanks to [Bible Gateway](https://www.biblegateway.com/) for free access to their website and content, which has been invaluable in the development of this project.
 
-To get started with 'Bible Meditation - Read, Listen, Meditate,' clone this repository to your local machine. Ensure you have Android Studio installed to build and run the application.
 
 ```bash
 git clone https://github.com/yourusername/bible-meditation-app.git
