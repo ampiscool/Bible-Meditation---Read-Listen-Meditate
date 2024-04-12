@@ -27,7 +27,7 @@ Bible Meditation is an Android application designed to enhance your spiritual jo
 
   
 ## Acknowledgments
-Special thanks to [Bible Gateway](https://www.biblegateway.com/) for free access to their website and content, which has been invaluable in the development of this project.
+Special thanks to [Bible Gateway](https://www.biblegateway.com/) for free public access to their website and content, which has been invaluable in the development of this project.
 
 
 #
